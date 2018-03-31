@@ -1,4 +1,4 @@
-﻿# Maquina Virtual .OVA  - Ubuntu 14.04 com AtoM (ICA-AtoM) 2.4 Acess to Memory
+﻿# Maquina Virtual .OVA  - Ubuntu 14.04 com AtoM (ICA-AtoM) versão 2.4 - Access to Memory
 
 O arquivo .OVA possui uma instalação funcional do ATOM, para roda-la basta importar o arquivo .OVA para seu software de virtualização, para fazer uso do atom basta abrir o localhost pelo firefox.
 
